@@ -1,0 +1,24 @@
+body {
+    background-image:url(./images/drum_BG.JPG);
+    background-position: top;
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+
+#key {
+    margin-top: 266px;
+    margin-left: 524px;
+}
+
+#upBtns{ 
+    margin-bottom: 4px;
+}
+
+.btnsClass {
+    height: 195px;
+    transition: all 0.1s;
+    opacity: 0;
+}
+
+
+
